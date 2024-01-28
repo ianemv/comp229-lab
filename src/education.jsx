@@ -1,3 +1,9 @@
+/**
+File: education.jsx
+Student Name: Ian Villanueva
+Student ID: 301293286
+*/
+
 import React from 'react';
 
 export default function Education() {

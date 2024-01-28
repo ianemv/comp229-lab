@@ -1,3 +1,8 @@
+/**
+File: about.jsx
+Student Name: Ian Villanueva
+Student ID: 301293286
+*/
 
 import './App.css';
 

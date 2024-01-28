@@ -1,3 +1,9 @@
+/**
+* File: components/Layout.jsx
+* Student Name: Ian Villanueva
+* Student ID: 301293286
+**/
+
 import React from 'react'
 import {Link} from 'react-router-dom'
 import '../src/App.css';

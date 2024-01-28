@@ -1,3 +1,10 @@
+/**
+File: project.jsx
+Student Name: Ian Villanueva
+Student ID: 301293286
+*/
+
+
 import React from 'react';
 import './App.css';
 

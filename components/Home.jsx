@@ -1,3 +1,9 @@
+/**
+File: components/Home.jsx
+Student Name: Ian Villanueva
+Student ID: 301293286
+*/
+
 import { Link } from 'react-router-dom';
 
 export default function Home()  {return (
